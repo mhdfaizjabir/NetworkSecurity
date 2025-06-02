@@ -1,3 +1,7 @@
 python-dotenv
 pandas
 numpy
+pymongo
+certifi
+
+## -e . #  refer to the setup.py for the package name
